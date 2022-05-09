@@ -1,0 +1,5 @@
+tool:
+  - name: SharpWSUS
+    description: Credit: Nettitude - SharpWSUS is a CSharp tool for lateral movement through WSUS.
+    gitLink: https://github.com/nettitude/SharpWSUS
+    solutionPath: SharpWSUS\SharpWSUS.sln
